@@ -4,4 +4,51 @@
 
 @layer base{
 
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+    .dm-sans { 
+        font-family: "DM Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+      }
+
+}
+
+
+
+h1{
+    color: #1e1c1c;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 0;
+    font-style: normal;   
+}
+
+h2{
+    color: #1e1c1c;
+    font-size: 30px;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;   
+}
+
+h2{
+    color: #1e1c1c;
+    font-size: 25px;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;   
+}
+
+
+p{
+    color: #1e1c1c;
+    font-size: 16px;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;   
 }
