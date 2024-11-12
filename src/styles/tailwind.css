@@ -16,6 +16,10 @@
 }
 
 
+body{
+    background-color: #FBFBF9;
+}
+
 
 h1{
     color: #1e1c1c;
@@ -27,14 +31,14 @@ h1{
 
 h2{
     color: #1e1c1c;
-    font-size: 30px;
+    font-size: 35px;
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: normal;
     font-style: normal;   
 }
 
-h2{
+h3{
     color: #1e1c1c;
     font-size: 25px;
     font-family: "DM Sans", sans-serif;
